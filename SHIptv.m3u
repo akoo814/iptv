@@ -36,8 +36,6 @@ http://192.168.50.154:8686/udp/239.45.0.12:5140
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://192.168.50.154:8686/udp/239.45.3.251:5140
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
-http://192.168.50.154:8686/udp/239.45.0.41:5140
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
-http://192.168.50.154:8686/udp/239.45.1.22:5140
+http://192.168.50.154:8686/udp/239.45.0.41:514
 #EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视频道",CHC高清电影
 http://192.168.50.154:8686/udp/239.45.0.42:5140
