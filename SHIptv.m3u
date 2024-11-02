@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="新闻综合",新闻综合
  http://192.168.1.154:8686/udp/239.45.3.209:5140
 #EXTINF:-1 tvg-id="东方卫视",东方卫视
