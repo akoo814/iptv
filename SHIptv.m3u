@@ -43,7 +43,7 @@ http://192.168.50.154:8686/udp/239.45.3.252:5140
 http://192.168.50.154:8686/udp/239.45.0.38:5140
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png" group-title="特色频道",金鹰卡通
 http://192.168.50.154:8686/udp/239.45.3.233:5140
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="央视频道",哈哈炫动
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="特色频道",哈哈炫动
 http://192.168.50.154:8686/udp/239.45.1.55:5140
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png" group-title="特色频道",动漫秀场
 http://192.168.50.154:8686/udp/239.45.3.134:5140
